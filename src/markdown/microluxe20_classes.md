@@ -1,16 +1,45 @@
-<!-- $header Spell Lists -->
+<!-- $header Classes, Spells <br> and Powers -->
 
-# Spell Lists
+# Classes, Spells, and Powers
 
-The following spells have been customized and tweaked to make the game as smooth as possible. It is suggested to use these spells for all spell casters in the game, although spells from the SRD can also be used in Microluxe20 with slight modifications. With the following spell system in place, additional spells in the SRD (but not on this list) can easily be discovered in the game as loot, research, etc. if the GM desires.
+The following spells and powers have been customized and tweaked to make the game as smooth as possible. It is suggested to use these spells for all spell casters in the game, although spells from the SRD can also be used in Microluxe20 with slight modifications. With the following spell system in place, additional spells in the SRD (but not on this list) can easily be discovered in the game as loot, research, etc. if the GM desires.
 
-## Arcane Spells (Mage)
+Each class has a brief description, a list of their abilities and the minimum level for each ability, and a list of spells that class can cast divided by caster level.
+
+## Fighter
+
+Fighters are mercenaries, brawlers, muscle-for-hire, wrestlers, dockworkers, or members of any other profession that require strength and skill in equal measure.
+
+**Equipment**: Fighters can use all types of weapon, armor, and shields.
+
+**Weapon Proficiency**: Fighters gain +1 to all attack and damage rolls. This increases by +1 at 5th level and every five levels onward.
+
+**Extremely Healthy**: Each time they level up, Fighters gain HP equal to their STR bonus in addition to the normal HP gained when leveling up.
+
+**Cleave** (lv 5): If a Fighter's melee attack downs or slays a foe, the figher may make one additional melee attack against another target within melee range. This ability can compound, meaning if one swing kills the second foe, the Fighter can make a third attack, and so on.
+
+## Rogue
+
+A Rogue is a master of the urban sprawl, attacking from the shadows and fading away without a trace. Whether aristocrat or commoner, a Rogue is equally at home in a tavern as they are in a high-society function, picking pockets and poisoning drinks just as easily as starting a bar brawl or thanking a noble for his hospitality.
+
+**Equipment**: Rogues can use light armor, can use bucklers, and can use simple weapons and complex light weapons.
+
+**Sneak Attack**: With a successful sneak check (usually Guile+DEX), Rogues add their Guile skill to the damage of their first attack that turn. Sub-attacks and additional attacks that turn do not receive a _Sneak Attack_ bonus.
+
+**Evade** (lv 5): Any save that a Rogue succeeds cannot deal damage to the rogue. For example, some spells or abilities deal half-damage even if the target saves successfully. With Evade, the Rogue would not take any damage as long as he/she saved successfully.
+
+## Mage
 
 Mages are perhaps the simplest of spellcasters, working their craft of science and knowledge to channel the energies of the Astral Plane into complex productions of magic. Mages were the first to pioneer the Runic alphabet and tongue, in which scrolls are written and spells are cast.
 
+**Equipment**: Mages wear no armor, cannot use shields, and can only use simple weapons.
+
+**Detect Magic:** Detects spells and magic items within 60 ft. at will. A roll may be required to detect magic that is actively being hidden.
+
+<!-- $page-break -->
+
 ### 1st-Level Arcane Spells: Cantrips
 - **Arcane Mark:**  Inscribes a permanent personal rune (visible or invisible).
-- **Detect Magic:**  Detects spells and magic items within 60 ft. for up to 10 rounds/level or until concentration ends.
 - **Ghost Sound:**  Figment sounds for 1 round/level.
 - **Light:**  Object shines like a torch for 10 min./level.
 - **Mage Hand:**  5-pound telekinesis. Lasts until concentration ends.
@@ -40,8 +69,6 @@ Mages are perhaps the simplest of spellcasters, working their craft of science a
 - **Fly:**  Subject flies at speed of 60 ft. for 10 rounds/level.
 - **Lightning Bolt:**  Summons a bolt of lightning from the caster's hands, dealing 3d8 + 1/level damage.
 - **Vampiric Touch:**  The caster touches a subject, draining away their life force. Deals 1d6 damage per two levels and the caster gains half of the damage as HP.
-
-<!-- $page-break -->
 
 ### 8th-Level Arcane Spells
 - **Animate Dead:**  Creates up to 4 undead skeletons or zombies (requires remains).
@@ -83,8 +110,6 @@ Mages are perhaps the simplest of spellcasters, working their craft of science a
 - **Power Word Stun:** Stuns creature with 150 HP or less for 2d4 rounds.
 - **Trap the Soul:** Imprisons a target's soul and material body within a gem.
 
-<!-- $page-break -->
-
 ### 18th-Level Arcane Spells
 - **Astral Projection:** Projects you and companions onto the Astral Plane. The Astral plane is the space/plane in which Terador (and other worlds) reside. Filled with a thick air-like substance called "miasma", the Astral plane is a timeless plane with ever-changing gravity, known for its magic production.
 - **Etherealness:** Travel to Ethereal Plane with companions for 10 rounds/level.
@@ -93,11 +118,15 @@ Mages are perhaps the simplest of spellcasters, working their craft of science a
 - **Power Word Kill:** Kills one creature with 250 HP or less.
 - **Soul Bind:**  Traps a newly dead soul inside an item, preventing resurrection.
 
-## Divine Spells (Cleric)
+## Cleric
 
-Clerics cast spells by praying to their deity, receiving their answers in the form of manifestations of divine power. Clerics may lose their ability to cast spells if they blaspheme against their deity or take deliberate action against their deity's morals or values.
+Clerics cast spells by praying to their deity, receiving their answers in the form of manifestations of divine power.
 
-Clerics may regain their ability to cast spells by Atonement or taking action to repair their standing with their deity.
+Clerics may lose their ability to cast spells if they blaspheme against their deity or take deliberate action against their deity's morals or values. If this happens, they may regain their ability to cast spells by another Cleric casting Atonement or by personally taking action to repair their standing with their deity.
+
+**Equipment**: Clerics can wear light or medium armor, can not use shields, and can use simple weapons.
+
+**Turn Undead**: Good-aligned Clerics may repel or destroy Undead creatures, while Evil-aligned Clerics may bolster or control Undead with this ability. The Cleric makes a Magic Attack, using the current HP of the Undead as the DC. If the DC is exceeded by 10 it is destroyed/controlled, otherwise it is repelled/bolstered. This can be used (2 + Level + MIND Bonus) times per day.
 
 ### 1st-Level Divine Spells: Orisons
 - **Create Water:** Creates 2 gallons/level of pure water.
@@ -139,6 +168,8 @@ Clerics may regain their ability to cast spells by Atonement or taking action to
 - **Restoration:**  Restores any level and ability score drains.
 - **Tongues:**  Speak any language for 10 min./level.
 
+<!-- $page-break -->
+
 ### 10th-Level Divine Spells
 - **Atonement:**  Removes burden of misdeeds from subject (ex: a druid who has used metal objects can be forgiven by his/her deity).
 - **Commune:**  Deity answers one yes-or-no question/level. Lasts for 1 round/level
@@ -171,8 +202,6 @@ Clerics may regain their ability to cast spells by Atonement or taking action to
 - **Fire Storm:**  Deals 1d6/level fire damage.
 - **Holy Aura:**  +4 to AC, +4 resistance, and spell resistance of 25 against evil spells (the enemy must roll higher than a 25 just to cast the spell) for 1 round/level.
 
-<!-- $page-break -->
-
 ### 18th-Level Divine Spells
 - **Astral Projection:** Projects you and companions onto the Astral Plane. The Astral plane is the space/plane in which Terador (and other worlds) reside. Filled with a thick air-like substance called "miasma", the Astral plane is a timeless plane with ever-changing gravity, known for its magic production.
 - **Etherealness:**  Travel to the Ethereal Plane with companions for 10 rounds/level.
@@ -181,14 +210,45 @@ Clerics may regain their ability to cast spells by Atonement or taking action to
 - **Implosion:**  Kills one creature with 150 HP or less per round for 4 rounds or until concentration ends.
 - **Soul Bind:**  Traps a newly dead soul inside an item, preventing resurrection.
 
-## Arcane Spells (Illusionist)
+<!-- $page-break -->
+
+## Paladin
+
+Champions of a specific deity, Paladins are temple guards or armored crusaders sworn to uphold the virtues and beliefs of their religion. For their loyal service, they are granted divine blessings to better carry out their duties.
+
+Like Clerics, Paladins can fall out of favor with their deity, muddying their sense of good and evil, and loosing the ability to cast divine spells.
+
+**Equipment**: Paladins wear and use any kind of armor, shield, and weapon.
+
+**Hardy Constitution**: Paladins are immune to diseases and apply a +1 bonus to all saving throws. Tthis increases by +1 at 5th level and every 5 levels onward.
+
+**Detect Evil**: Paladins can attempt to detect evil items or persons within 60ft. at will. A MIND save (vs. a GM-set DC) may be required to detect evil that is actively being hidden. If the Paladin is pledged to an Evil deity, this power becomes Detect Good.
+
+**Laying on Hands**: A Paladin can heal another character 2 × Level HP up to three times per day by placing their hands on an injured character and praying. _Laying on Hands_ ignores Arcane / Divine influence, healing the maximum amount regardless of whether the target is a spellcaster.
+
+**Divine Favor** (lv 5): Once per day, a Paladin may choose one 4th-Level and two 2nd-Level Cleric spells, which they may cast until the end of that day. The chosen spells are cast as normal for a Cleric of the appropriate level. This ability is immediately lost if the paladin falls out of favor with their deity.
+
+## Ranger
+
+Hidden away in the treetops, invisible on the plains, and silent in the forest loam, Rangers spend many weeks at a time prowling the open lands, hunting what they need to survive, and purging the forests of their more unsavory occupants.
+
+**Equipment**: Rangers can wear light or medium armor, can use shields, and can use simple weapons, complex ranged weapons, and complex one-handed weapons.
+
+**Ranged Weapon Proficiency**: Rangers gain +1 to attack and damage rolls with ranged weapons. They only incur a -1 penalty when fighting with two light weapons.
+
+**Trapper** (lv 5): Rangers gain +2 when dealing with traps. This includes setting, searching for, disarming, and hunting with traps, among other uses.
+
+## Illusionist
 
 Illusionists focus their arcane power into creating phantasms of will and tricking others into believing their specific version of the world. For a powerful Illusionist, this can extend even to tricking Reality itself, allowing the caster to travel through solid walls, use shadows as doorways, and much more.
+
+**Equipment**: Illusionists wear no armor, can not use shields, and can only use simple weapons.
+
+**Detect Illusions:** Detects Illusions in a 60ft. radius at will. A MIND save (vs. a GM-set DC) may be required to detect illusions that are actively being hidden.
 
 ### 1st-Level Illusionist Spells: Cantrips
 - **Arcane Mark:** Inscribes a permanent personal rune (visible or invisible).
 - **Dancing Lights:** Creates torches or other lights for 10 min./level.
-- **Detect Illusion:** Detects Illusions in a 60ft. radius for 10 rounds/level.
 - **Ghost Sound:** Figment sounds for 1 round/level.
 - **Prestidigitation:** Performs minor tricks for 1 hour.
 - **Read Magic:** Read Scrolls and Spellbooks for 10 min./level.
@@ -216,8 +276,6 @@ Illusionists focus their arcane power into creating phantasms of will and tricki
 - **Invisibility Sphere:** Makes everyone within 10ft. invisible.
 - **Minor Image:** Creates a minor illusion of your design with sound, smell, and thermal effects.
 - **Suggestion:** Compels subject to follow stated course of action for 1 hour/level or until completed.
-
-<!-- $page-break -->
 
 ### 8th-Level Illusionist Spells
 - **Charm Monster:** Make one monster believe it is your ally for 1 day/level.
@@ -248,6 +306,7 @@ Illusionists focus their arcane power into creating phantasms of will and tricki
 - **Phase Door:** Creates an invisible passage through wood and stone.
 - **Power Word Blind:** Permanently blinds a creature with 200 HP or less.
 - **Prismatic Spray:** Creates a 60ft. Cone-shaped burst of rays causing a variety of effects.
+
 - **Project Image:** Illusory double (with half of the caster's HP) can talk and cast spells at medium range for 1 round/level or until it "dies".
 - **Weird:** A fearsome illusion terrifies all creatures within 30 ft, dealing 5d8 damage.
 
@@ -267,11 +326,19 @@ Illusionists focus their arcane power into creating phantasms of will and tricki
 - **Complete Silence:** A subject becomes completely undetectable by sound.
 - **Figmentation:** Any real object or subject is cast into an unknown location in the Ethereal Plane (The ethereal plane is a separate plane from the material plane, invisible to creatures on the material plane. It is gravity-less and dull; a land of ghosts, shadows, and wisps), making it a shadowy illusion. This spell, can only be cast without penalty the first time. After the first successful casting, if attempted again, the caster has a 50% chance of passing. If the caster fails, he/she is cast into the Ethereal Plane instead, becoming an illusion.
 
-## Divine Spells (Druid)
+## Druid
 
 Druids tend to be reclusive hermits, eschewing the busy life of towns and cities for the simple life of the forests and plains, gaining their powers from their worship of nature deities.
 
 Druids must forgo the use of weapons and armor made of metal worked by mortal hands. Simple baubles and tools with small amounts of metal are not enough to draw their deity's ire, but like Clerics, Druids must spend time returning to the good graces of their deity if they stray.
+
+**Equipment**: Druids wear any non-metal armor, can use non-metal shields, and can use simple weapons.
+
+**Woodland Walker**: Druids are immune to the spell-like effects of woodland fey, and gain +1 to stealth rolls in forests.
+
+**Pass Without Trace** (lv 3): Druids can travel without leaving any scent, footprints, or anything else that could be used to trace where they travelled.
+
+**Wild Form** (lv 7): Up to 3 times per day, a Druid can assume the form of a small-to-medium woodland animal (about the size of a black bear) of their choice. When changing back from _Wild Form_, the Druid heals 2 HP / level.
 
 ### 1st-Level Druid Spells: Orisons
 - **Create Water:**  Creates 2 gallons/level of pure water.
@@ -297,8 +364,6 @@ Druids must forgo the use of weapons and armor made of metal worked by mortal ha
 - **Tree Shape:**  You look exactly like a tree for 1 hour/level.
 - **Warp Wood:**  Bends wood within a 20ft. radius.
 
-<!-- $page-break -->
-
 ### 6th-Level Druid Spells
 - **Call Lightning:**  Calls a lightning storm into an area with a 5ft. radius. Lightning bolts come down from the sky dealing 3d6 + 1/level damage once per round for 1 round/level.
 - **Protection from Energy:**  Absorb 12 points/level of damage from one kind of energy for 10 rounds/level.
@@ -314,6 +379,8 @@ Druids must forgo the use of weapons and armor made of metal worked by mortal ha
 - **Reincarnate:**  Bring back a dead subject into a random body (a body that is nearby).
 - **Repel Vermin:**  Insects, spiders, and other vermin stay 10ft. away for 10 min./level.
 - **Spike Stones:** All creatures within 20ft. take 3d8 damage. They must make a reflex save. If failed, they are slowed.
+
+<!-- $page-break -->
 
 ### 10th-Level Druid Spells
 - **Awaken:**  One animal or tree gains human intellect (4 Mind).
@@ -339,8 +406,6 @@ Druids must forgo the use of weapons and armor made of metal worked by mortal ha
 - **Fire Storm:** Create a blazing storm dealing 1d6/level fire damage to up to a 60ft. radius.
 - **Wind Walk:** You and your allies turn vaporous and travel at up to 60mph for 1 hour/level.
 
-<!-- $page-break -->
-
 ### 16th-Level Druid Spells
 - **Animal Shapes:** One ally/level polymorphs into a chosen animal.
 - **Mass Cure Serious Wounds:** Cures 3d8 damage +1/level for 1 creature/level, no two of which can be more than 30ft. apart.
@@ -357,13 +422,29 @@ Druids must forgo the use of weapons and armor made of metal worked by mortal ha
 - **Summon Nature's Ally:** Summon a 9th-level creature, 1d4 8th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
 - **Sympathy:** Object or location affected by spell attracts a certain creature type.
 
-## Psionic Powers (Psion)
+## Bard
+
+Entertainers, scoundrels, sages, tricksters, historians, and bartenders all in one, Bards use their musical talent and their ability to make light of outrageous actions to great effect. Where a Rogue is the knife in the shadows, a Bard is a torch, shining so brightly they evade the suspicion of wrongdoing entirely.
+
+**Equipment**: Bards wear light armor, can use bucklers, and can use simple weapons and complex light weapons. They typically carry at least one type of musical instrument, and are skilled at many different types of performances.
+
+**Musical Performance**: With a successful skill check, cancels or counters sound-based effects within 30 ft.
+
+**Charm Person**: Whether by music, dance, or a speech, a Bard can attempt to influence a person by making a performance roll (STR, DEX, or MIND + Communication). The effects of _Charm Person_ are determined by the GM.
+
+**Remove Fear**: As with _Charm Person_, a Bard can encourage and rally a group of people with a performance roll (vs a GM-set DC). A successful roll counters fear-based effects and grants all targets +1 to MIND saves for 1 hr / level.
+
+**Amateur Magician** (lv 6): A Bard may cast spells as if they were either an Illusionist or Druid of 5 levels below their own. The choice of spellcasting class is permanent and cannot be changed.
+
+## Psion
 
 Psions are strange quirks of nature whose minds are warped from birth. They posess a natural connection with the Ethereal Plane, which allows them to directly project power into their surroundings. This often results in Psions perceiving the world in strange ways, and developing anti-social and amoral tendencies due to their outcast status.
 
 Psions cannot not use staves, rods, or metamagic. Instead, their powers are augmented with additional Hit Points (HP). The augmenting HP cost is noted under each power's entry. The combined HP cost for manifesting and augmenting a power (disregarding signature spell bonus) cannot exceed the character's psionic class level. Thus, a 3rd level psion could manifest a level 2 power by spending 2 HP, and augment it with at most 1 additional HP for a total HP cost of 3.
 
-**Psionic vs. Magical Effects:** Powers interact with spells and spells interact with powers in the same way a spell or normal spell-like ability interacts with another spell or spell-like ability. For example, detect magic detects psionics and dispel psionics dispels magic.
+_Psionic vs. Magical Effects_: Powers interact with spells and spells interact with powers in the same way a spell or normal spell-like ability interacts with another spell or spell-like ability. For example, detect magic detects psionics and dispel psionics dispels magic.
+
+**Equipment**: Psions can use light armor, can not use shields, and can only use simple weapons.
 
 ### 1st-Level Psion Powers: Mantles
 - **Inkling:** Weakly manifest some psionic power, allowing tiny objects or creatures to be moved unpredictably.
@@ -377,6 +458,8 @@ Psions cannot not use staves, rods, or metamagic. Instead, their powers are augm
 - **Mindlink:** Forge a limited mental bond with another creature. _Duration_: 10 rounds/level. _Augment_: Every 2 extra HP links another creature.
 - **Mind Thrust:** Deal 3d6 force damage. _Duration_: Instant. _Augment_: Each extra HP adds 1d6+1 to damage.
 - **Precognition:** Gain +2 bonus to one roll in the future. _Duration_: 10 rounds/level. _Augment_: None.
+
+<!-- $page-break -->
 
 ### 4th-Level Psion Powers
 - **Clairvoyant Sense:** See and hear a distant location. _Duration_: 10 rounds/level. _Augment_: None.

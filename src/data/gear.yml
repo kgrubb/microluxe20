@@ -9,6 +9,7 @@ data:
     - Antitoxin (vial) | 50gp
     - Artisan's Tools | 5gp
     - Backpack (empty) | 2gp
+    - Bandages (roll of 10) | 1gp
     - Barrel (empty, 40 gal.) | 2gp
     - Basket (empty) | 4sp
     - Bedroll | 1sp
@@ -18,7 +19,7 @@ data:
     - Bottle, glass (empty, 2 pt.) | 2gp
     - Bucket (empty, 2 gal.) | 5sp
     - Caltrops | 1gp
-    - Candle | 1cp
+    - Candle (pack of 10) | 1sp
     - Canvas (sq. yd.) | 1sp
     - Case, map or scroll | 1gp
     - Chain (10 ft.) | 30gp
@@ -33,7 +34,8 @@ data:
     - Flask (empty, ½ pt.) | 3cp
     - Grappling Hook | 1gp
     - Hammer | 5sp
-    - Healer's Kit | 50gp
+    - Healer's Kit (25 uses) | 50gp
+    - Herbal Tea (10 uses) | 10gp
     - Holy Symbol, wooden | 1gp
     - Holy Symbol, silver | 25gp
     - Holy Water (flask) | 25gp

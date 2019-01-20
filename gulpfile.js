@@ -20,7 +20,7 @@ const config = {
   paperFormat: 'Letter',
 
   compiledOut: [
-    ['handbook', 'equipment', 'spells'],
+    ['handbook', 'equipment', 'classes'],
     ['gm_guide'],
     ['lore'],
     ['races'],

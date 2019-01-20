@@ -64,29 +64,29 @@ These factors, when carefully chosen, can significantly help in designing a char
 
 Classes define your character's way of life. Your character's class helps shape his/her combat style and methods of overcoming various obstacles. Your class provides a pathway, granting special powers and features for your character.
 
-**Fighters** wear and use any kind of armor, shield, and weapon. They gain a +3 bonus to Physical and add +1 to all attack and damage rolls. This increases by +1 at 5th level and every five levels onward. They also gain additional HP equal to their STR bonus every time they level up. Fighters gain the _Cleave_ ability at level 5. If the Fighter's melee attack drops/slays a foe, the fighter gets one additional attack against another opponent within range. This ability can compound, meaning if one swing kills the second foe, the Fighter can continue to attack until he/she either misses or doesn't kill the foe with the attack.
+A simple overview of the available classes is listed here. For full details, see the chapter on _Classes, Spells and Powers_.
 
-**Rogues** can use light armor, can use bucklers, and can use simple weapons and complex light weapons. They have a +3 bonus to Guile. Rogues can _Sneak Attack_. If they successfully sneak (usually Guile+DEX, but depends on situation) up on a foe they can add their Guile skill rank to the damage of their first attack. Rogues gain the _Evade_ ability at level 5. Any save that a rogue succeeds cannot deal damage to the rogue. For example, some spells deal half-damage even if the target saves successfully. With Evade, the rogue would not take any damage as long as he/she saved successfully.
+**Fighters** wear and use any kind of armor, shield, and weapon. They gain a +3 bonus to Physical and add +1 to all attack and damage rolls, increasing by +1 at every 5th level. They also gain additional HP (based on STR) when they level up.
+
+**Rogues** can use light armor, can use bucklers, and can use simple weapons and complex light weapons. They have a +3 bonus to Guile. Rogues can _Sneak Attack_ with a successful stealth roll (usually Guile+DEX), and gain the _Evade_ ability at level 5.
 
 **Mages** wear no armor, can not use shields, and can use simple weapons. They can cast arcane spells (Mage), and gain a +3 bonus to Knowledge.
 
-**Clerics** can wear light or medium armor, can not use shields, and can use simple weapons. They cast divine spells (Cleric) and gain a +3 bonus to Communication. A Cleric can _Turn Undead_ with a successful Magic Attack. The DC for the action is the current HP of the Undead. If the DC is exceeded by 10 it is destroyed. This can be used (2 + Level + MIND Bonus) times per day.
+**Clerics** can wear light or medium armor, can not use shields, and can use simple weapons. They cast divine spells (Cleric) and gain a +3 bonus to Communication. A Cleric can _Turn Undead_ with a successful Magic Attack.
 
-**Paladins** wear and use any kind of armor, shield, and weapon. They gain +1 to Physical and a +2 bonus to Communication. They are immune to diseases and apply a +1 bonus to all saving throws (this increases by +1 at 5th level and every 5 levels onward). Paladins can _Detect Evil_ within 60 ft. at will and can heal up to 2 HP per level up to three times per day by _Laying on Hands_. _Laying on Hands_ ignores Arcane and Divine Influence on casters, healing the full amount.
+**Paladins** wear and use any kind of armor, shield, and weapon. They gain +1 to Physical and a +2 bonus to Communication. Paladins can _Detect Evil_ and heal others by _Laying on Hands_, and gain _Divine Favor_ at level 5.
 
-**Rangers** wear light or medium armor, can use shields, and can use simple weapons, complex ranged weapons, and complex one-handed weapons. They gain +1 to hit and +1 damage with ranged weapons and only incur a -1 to hit penalty when fighting with 2 weapons. They have a +1 bonus to Guile and a +2 bonus to Physical. Rangers gain the _Trapper_ ability at level 5. When dealing with trap-related dice rolls (such as dodging a trap or searching for traps), a ranger gains a +2 bonus.
+**Rangers** wear light or medium armor, can use shields, and can use simple weapons, complex ranged weapons, and complex one-handed weapons. They gain a +1 bonus to Guile and a +2 bonus to Physical. They have +1 to ranged weapon rolls and incur less of a penalty for fighting with 2 weapons. Rangers gain the _Trapper_ ability at level 5.
 
 **Illusionists** wear no armor, can not use shields, and can use simple weapons. They can cast arcane spells (Illusionist) and gain a +2 bonus to Communication and a +1 bonus to Guile.
 
-**Druids** wear any non-metal armor, can use non-metal shields, and can use simple weapons. They cast divine spells (Druid) and gain +2 to Knowledge and +1 to Physical. Druids are immune to the spell-like effects of woodland fey. At 3rd level a Druid can _Pass Without Trace_ (be untraceable) at will. At 7th level a Druid can assume the form of any small or medium sized animal up to 3 times per day. A Druid heals 2 HP per level when changing back into his/her human form.
+**Druids** wear any non-metal armor, can use non-metal shields, and can use simple weapons. They cast divine spells (Druid) and gain +2 to Knowledge and +1 to Physical. Druids are immune to the effects of woodland fey, can _Pass Without Trace_ at 3rd level, and take the form of a small or medium sized animal at 7th level.
 
-**Bards** wear light armor, can use bucklers, and can use simple weapons and complex light weapons. They gain +2 to Communication and +1 to Guile. A Bard has the _Performance_ ability, allowing him/her to counter sound-based effects within a 30 ft. radius. A Bard can use his/her song to _Charm Person_ or _Remove Fear_ (vs DC) up to 3 times (total) per day. Beginning at 6th level, a Bard casts spells as either a Druid or Illusionist (player's choice) of 5 levels lower.
+**Bards** wear light armor, can use bucklers, and can use simple weapons and complex light weapons. They gain +2 to Communication and +1 to Guile. A Bard can counter sound-based effects with _Performance_, and can _Charm Person_ or _Remove Fear_ with a successful skill roll. A Bard can also cast spells as either a Druid or Illusionist of 5 levels lower.
 
 **Psions** can use light armor, can not use shields, and can use simple weapons. They can manifest Psion powers and gain +2 to Knowledge and +1 to Communication.
 
-After choosing your character's race and class, you will need to configure your stats and skills.
-
-<!-- $page-break -->
+After choosing your character's race and class, you will need to set your character's starting Stats and Skills.
 
 ## Stats
 
@@ -138,6 +138,8 @@ The Gamemaster may allow other characters to assist a character when performing 
 
 For compatibility purposes, the 3 saves in Microluxe20 (STR save, DEX save, and MIND save), directly match Fortitude, Reflex, and Will saves (often called "saving throws") found in other SRD-based games. Save rolls may not be assisted by other characters.
 
+<!-- $page-break -->
+
 ## Level Advancement
 
 Characters gain XP (or Experience Points) from defeating monsters, disarming traps, or from handling situations in innovative ways, at the GM's discretion. XP is awarded to all characters who take part in the encounter.
@@ -188,7 +190,7 @@ When making an attack, roll a d20, adding the appropriate **attack bonus** for t
 | :- | :- | :- |
 | STR bonus + Character Level | DEX bonus + Character Level | MIND bonus + Character Level |
 
-While a character's attack bonus is +6 or more, they can make an additional attack by subtracting -5 for the new attack's bonus. This can be carried out up to three times. For example, if the total bonus is +12, three attacks can be made (at +12/+7/+2, respectively).
+If a character's attack bonus is +6 or more, they can make an additional attack ("sub-attack") by subtracting -5 for the new attack's bonus. This can be carried out up to three times. For example, if the total bonus is +12, the character can make two sub-attacks for a total of three attacks (at +12/+7/+2, respectively). Sub-attacks cannot deal critical damage.
 
 Fighters and Rogues may use DEX bonus + Level (Missile attack bonus) as their Melee attack bonus when wielding a light weapon. Fighters, Rogues, Bards, and Rangers may wield 2 light weapons and attack with both in a round, if they take a -2 penalty on all attack rolls that round. Rangers take a -1 penalty instead.
 
@@ -214,7 +216,7 @@ Once a spellcaster has cast a spell in an encounter, they enter a state called "
 
 There is no need to memorize spells in advance. Just because a character can cast any spell, doesn't mean that they should. Choose spells that suit the character.
 
-Starting at 1st level, select one "signature" spell per spell level that the character prefers to use over any other. These spells are easier to cast due to familiarity, costing 2 HP less to use.
+Starting at 1st level, select one "signature" spell per spell level that the character prefers to use over any other. These spells are easier to cast due to familiarity, costing 2 HP less to use. Spells that do damage to a target (e.g. _Magic Missile_, _Produce Flame_) always cost at least 1 HP to cast, even if they are a signature spell.
 
 ### Casting Metamagic
 
@@ -290,13 +292,13 @@ When the infusion process is finished, the character rolls MIND+Knowledge, and t
 
 After players have been in combat, they may need to rest to regain their stamina. There are 2 forms of resting:
 
-**Short Rest:** Resting for 1-4 hours constitutes a short rest. Characters heal up to ¼ of their Max HP (rounded up). Spellcasters are no longer under arcane/divine influence.
+**Short Rest:** Resting for at least an hour constitutes a short rest. Spellcasters are no longer under arcane/divine influence once they have taken a short rest.
 
-**Long Rest:** Resting for at least 4 hours constitutes a long rest. Characters heal all of their HP and short-term side effects. Spellcasters also lose their arcane/divine influence.
+**Long Rest:** Resting for at least 4 hours constitutes a long rest. A long rest cures most short-term status effects, and is otherwise functionally identical to a short rest.
 
-Resting for less than 4 hours recovers at most ¼ of a character's HP, regardless of the duration of the rest. Downed characters must be stabilized before they can rest.
+While resting, characters heal HP equal to `STR bonus + Physical` per hour of rest. Bandages and other healing items usually require that a character take at least a short rest to heal HP. Healing items that require a rest are not affected by arcane/divine influence.
 
-After resting, characters may not rest again until they have lost ¼ of their total HP, or one hour has passed.
+Potions and spells of Cure Wounds instantly heal a character without requiring a rest, but have significantly reduced effect on a character under arcane/divine influence.
 
 ## Heroism
 

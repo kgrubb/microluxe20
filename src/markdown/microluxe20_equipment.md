@@ -102,3 +102,13 @@ Suggested starting packs for new characters. Each pack uses 35gp of a character'
 <!-- $data gear.yml fast-packs -->
 
 Rogues are advised to purchase Thieves' Tools if they want to pick locks, disarm traps, etc.
+
+### Healing Items
+
+While potions and spells heal characters instantly, they are expensive and ineffective when used on spellcasters. More natural healing remedies are available for purchase, trading an increased healing time for utility and cost-effectiveness.
+
+**Bandages**: Apply one per injured or bleeding limb. Each bandage heals 1d6+1 HP after an hour of rest, at which point they may be safely discarded. A bandage can be improvised from 1 use of Adventuring Gear, or purchased separately.
+
+**Herbal Tea**: A collection of medicinal teas that restore 1d6+2 HP / hour for the next four hours of rest. Herbal tea is packaged in the dry state, and must be brewed before drinking. Drinking more than one cup of tea between rests has no effect.
+
+**Healing Kit**: One use of a Healing Kit stablizes a downed character, immediately restores 1d6 HP, and gives them an additional 1d6+4 HP recovery / hour for the next two hours of rest. Using a healing kit again on a character who hasn't been downed or taken a long rest since the first application has no effect.
