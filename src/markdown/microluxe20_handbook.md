@@ -184,21 +184,41 @@ When entering combat, the pace of the game shifts from the free-form nature of e
 
 The order in which characters take their turns in combat is determined by rolling d20 + DEX bonus for **initiative** at the start of each round (ties are settled with a re-roll).
 
-When making an attack, roll a d20, adding the appropriate **attack bonus** for the action. If the resulting total is greater than your opponent's Armor Class (AC), it's a hit. Natural 20 is automatically a critical, dealing additional damage equal to your weapon's maximum damage. Melee attack bonuses are used for martial weapons, Missile attack bonuses are used for ranged combat, and Magic attack bonuses are used for staves and other magical items with special powers.
+When making an attack, roll a d20, adding the appropriate **attack bonus** for the action. If the resulting total is greater than your opponent's Armor Class (AC), it's a hit. Natural 20 is automatically a critical, dealing additional damage equal to your weapon's maximum damage.
 
-| **Melee Attack Bonus:** | **Missile Attack Bonus:** | **Magic Attack Bonus:** |
+Melee attack bonuses are used for martial weapons, Ranged attack bonuses are used for thrown and ranged weapons, and Magic attack bonuses are used for spells and magical items with special powers.
+
+| **Melee Attack Bonus:** | **Ranged Attack Bonus:** | **Magic Attack Bonus:** |
 | :- | :- | :- |
 | STR bonus + Character Level | DEX bonus + Character Level | MIND bonus + Character Level |
 
-If a character's attack bonus is +6 or more, they can make an additional attack ("sub-attack") by subtracting -5 for the new attack's bonus. This can be carried out up to three times. For example, if the total bonus is +12, the character can make two sub-attacks for a total of three attacks (at +12/+7/+2, respectively). Sub-attacks cannot deal critical damage.
-
-Fighters and Rogues may use DEX bonus + Level (Missile attack bonus) as their Melee attack bonus when wielding a light weapon. Fighters, Rogues, Bards, and Rangers may wield 2 light weapons and attack with both in a round, if they take a -2 penalty on all attack rolls that round. Rangers take a -1 penalty instead.
-
-For each attack that hits, roll the damage die code on your weapon and subtract the resulting total from your opponent's HP. When wielding a Complex Melee weapon, add your STR bonus to the damage total.
+For each attack that hits, roll the damage die code of your weapon or spell, adding any bonuses from your class or weapon, and subtract the resulting total from your opponent's HP. An attack that hit always deals at least 1 damage.
 
 > **Example:** Your Human Paladin has hit an enemy Orc with his Greatsword (2d6, Complex). He rolls two six-sided die, getting 4+5 for a total of 9. Since it is a Complex weapon, he adds his strength bonus of +2, for 11 HP damage total. The Orc, having a meager 9 HP left, is killed instantly.
 
 When all characters (including Gamemaster's characters) have taken their turn, the round is over. If there are any opponents left alive or not incapacitated, a new round begins. Otherwise, combat is over.
+
+<!-- $page-break -->
+
+## Special Combat Rules
+
+While the basics of combat apply in all situations, some players may want to do more than just wield a single weapon or make a normal attack every turn. These rules are designed to allow players greater freedom in their playstyle.
+
+**Fighters**, **Rogues**, **Rangers**, and **Bards** may wield 2 light weapons and attack with both in a round, if they take a -2 penalty on all attack rolls that round. Rangers take a -1 penalty instead.
+
+**Fighters** and **Rogues** may use their Ranged Attack bonus (DEX + Level) instead of their Melee Attack bonus (STR + Level) when attacking with a Light melee weapon.
+
+If a character's attack bonus is +6 or more, they can make an additional strike or fire another projectile at the same target (a "sub-attack") by taking a -5 penalty to each attack's bonus. This can be carried out up to three times, so long as the resulting attack bonus is +1 or more.
+
+> **Example:** if your character's total Melee Attack bonus is +12, you can choose to strike three times (at +2/+2/+2), twice (at +7/+7), or once at +12. However, you can't split the strikes up between different targets.
+
+When a character enters or exits the melee range of a hostile character, the hostile character may be able to attack them, at the GM's discretion. This is called an Attack of Opportunity, and is carried out like a normal attack. Characters unable to take a normal combat action may not make an Attack of Opportunity.
+
+Attempting to attack a specific part of a hostile character or target is known as a Called Shot, and is made at a -2 or greater penalty to Attack bonus. Successfully hitting a Called Shot may have special effects such as wounding or incapacitating the target, or may simply act like a normal attack, as determined by the GM.
+
+Attempting to knock out, restrain, or trip a hostile character with an attack is considered a Called Shot, with appropriate penalties to Attack bonus as determined by the GM.
+
+Characters wielding a Complex melee weapon in one hand add their STR bonus to the damage total. Characters wielding a Two-Handed melee weapon add 1½ times their STR bonus to the damage total.
 
 ## Spells
 
@@ -234,8 +254,6 @@ Here are the three most common metamagic spells:
 
 - **Widening** makes a spell's area of effect twice as big as normal. Widening a spell costs 6 HP.
 
-<!-- $page-break -->
-
 ## Magic Items
 
 *Author's Note:* This section is intended to establish a common baseline for magical items. Gamemasters are encouraged to customize or even ignore this section as needed to fit their setting.
@@ -248,11 +266,13 @@ Magical items can be broadly divided into two categories: Active and Passive. Ac
 
 **Rods:** Usually employed for easier metamagic, rods may contain a single spell or magical effect. This spell can be cast by anyone for the appropriate HP cost, but non-spellcasting characters do so at +2 or more to the difficulty. Rods with a metamagic effect may be used in tandem with staves when casting a spell. Spellcasters can create these at 5th level.
 
-**Wands:** Sometimes described as "magic-in-a-bottle", a wand contains a combination of a single spell and a set amount of charges. While there are charges left, any character may use the wand to cast the contained spell at the expense of a charge. Wands can be recharged, but usually require a significant HP cost for each charge. Spellcasters can create these at 5th level.
+**Wands:** Sometimes described as "magic-in-a-stick", a wand contains a single spell and a set number of charges. While there are charges left, any character may use the wand to cast the contained spell at the expense of a charge. Wands can be recharged, but usually require a significant HP cost for each charge. Spellcasters can create these at 5th level.
 
 **Potions:** A single-use magical item, potions are a bottled magical liquid. When consumed, a potion confers a magical effect on the character that drank it. Spellcasters can create these at 3rd level.
 
-**Scrolls:** Scrolls are small sheets of parchment that allow any character to cast a single spell simply by saying the text out loud. Reading the Scroll does not require a character to understand the language it is written in, and completely destroys the scroll. Spellcasters may use Read Magic to decipher a scroll without casting (and destroying) it. Spellcasters can create these at 1st level.
+**Scrolls:** Scrolls are small sheets of parchment that allow any character to cast a single spell simply by saying the text out loud. Reading a scroll does not require a character to understand the language it is written in, and completely destroys it. Spellcasters may use Read Magic to decipher a scroll without casting (and destroying) it. Spellcasters can create these at 1st level.
+
+<!-- $page-break -->
 
 ### Common Passive Items:
 
@@ -287,6 +307,8 @@ When the infusion process is finished, the character rolls MIND+Knowledge, and t
 > **Example:** Your Mage wants to imbue a wand with Prestidigitation. This is a 1st-level Mage spell, so it will take 5 HP to enchant the wand, and 25 sp in material costs. Your Magic bonus is +3, so you decide to infuse it with three of the eight charges to start, bringing the total HP cost to 11.
 >
 >You can only infuse 5 HP per hour, so you must focus on infusing the wand for slightly over two hours. You roll MIND+Knowledge when you have finished infusing the wand and - Presto! - you get a 17! The wand is successfully crafted, holding 3 / 8 charges.
+
+<!-- $page-break -->
 
 ## Resting & Recuperating
 

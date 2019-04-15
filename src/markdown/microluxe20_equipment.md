@@ -23,7 +23,7 @@ Here is the format for weapon entries (given as column headings on the table bel
 - **Cost:** This value is the price for purchasing the weapon. The cost includes miscellaneous gear that goes with the weapon (For example, buying a bow would include a quiver as well).
 - **Damage:** The damage column gives the damage dealt by the weapon on a successful hit.
 - **Range:** Any attack less than this distance is not penalized. However, every extra 5ft. imposes a -2 penalty on the attack roll.
-- **Complexity:** Different weapons require different amount of training to use. The level of complexity relies on the player's class. For example, Mages cannot use Complex weapons.
+- **Complexity:** Different weapons require different amount of training to use. Characters with martial training can wield Complex weapons, while most spellcasters can only wield Simple weapons.
 
 ### Light Weapons
 

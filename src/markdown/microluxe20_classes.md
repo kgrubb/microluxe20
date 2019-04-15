@@ -436,6 +436,65 @@ Entertainers, scoundrels, sages, tricksters, historians, and bartenders all in o
 
 **Amateur Magician** (lv 6): A Bard may cast spells as if they were either an Illusionist or Druid of 5 levels below their own. The choice of spellcasting class is permanent and cannot be changed.
 
+## Necromancer
+
+Perhaps the most secretive of classes found on Terador, necromancers specialize in mastery of the undead, summoning skeletal remains to do their bidding. This makes them extremely unpopular with Good-aligned Clerics and Paladins, and as a result they are usually found in hidden workshops atop a mountain or deep underground.
+
+**Equipment**: Necromancers wear light armor, can not use shields, and can only use simple weapons. They typically carry necromantic foci of some kind (bones,  scraps of leather, or similar death-aligned objects), a spellbook for recording summonning rituals, and a spellstave.
+
+**Undead Control**: A Necromancer can control summoned undead as if they were a second body. These undead are controlled by the player as additional characters, and may take any action the Game Master rules they are capable of. Uncontrolled undead are automatically hostile and are under the control of the GM. Undead Control starts at 2 Undead, increasing by +1 every 5 levels (5, 10, 15, etc.)
+
+**Summon Undead**: Necromancers specialize in the summoning and control of undead like zombies and animated skeletons. To summon an undead, a necromancer must cast the appropriate spell and have a focus, such as a bone or a limb. The focus limits the type of undead that can be summoned; a necromancer cannot summon a goblin zombie if they only have a bone from a black bear, and they can't summon a black bear zombie if there are no dead black bears in the area. The resulting undead may have traits based on its previous form as determined by the Game Master.
+
+**Detect Undead**: Years of careful practice allow a Necromancer to determine, after some scrutiny, whether a creature is alive or undead. Detect Undead has a range of 60ft. and may be used at will. A MIND save (vs. a GM set DC) may be required to detect Undead that are actively hiding their state.
+
+### 1st-Level Necromancer Spells
+
+- **Cloud of Darkness:** Create a small pocket of magical darkness within 10ft. The cloud is no larger than a human head, and lasts for 10 rounds / level.
+- **Ghostly Hand:** Gain an extra semi-corporeal hand for 10 rounds / level. This hand is incapable of holding more than 5 pounds and cannot make an attack.
+- **Analyse Creature:** +1 to one attack or damage roll per turn against the scanned creature for 5 rounds / level.
+- **Read Magic:** Read Scrolls and Spellbooks for 10 min./level.
+
+### 2nd-Level Necromancer Spells
+
+- **Summon Skeleton:** Animate the skeleton of a medium-sized creature, creating a 1 HD Skeleton with all Stat Bonuses at -2. The undead lasts for 10 min./level or until dispelled. This spell costs a minimum of 1 HP, even as a Signature Spell.
+- **Bone Armor:** Spectral bone armor surrounds the caster, granting +2 AC. The summoned armor lasts for 10 rounds / level.
+- **
+
+### 4th-Level Necromancer Spells
+
+- **Summon Zombie:** Animate the flesh of a recently deceased medium-sized creature, creating a 2 HD Zombie with all Stat Bonuses at -1. The zombie deals 1d6 damage with a successful attack and lasts for 1 hour / level or until dispelled.
+
+### 6th-Level Necromancer Spells
+
+- **Summon Ghoul:** Animate a recently deceased sentient creature, creating a 3 HD Ghoul with all Stat Bonuses at -1. The ghoul deals 1d6+1 damage plus 1d3 rounds of paralysis with a successful hit, and uses 2 Undead Control slots. The ghoul lasts for 1 hour / level.
+- **Bone Wall:** Summon a 10-foot tall wall of sharpened bones (DC 12 DEX save to avoid being impaled). The wall blocks all melee and projectile attacks, lasts for 10 rounds / level and has 25 HP.
+
+### 8th-Level Necromancer Spells
+
+- **Summon Greater Skeleton:** Animate the skeleton of a larger creature, creating a 3 HD Skeleton with all Stat Bonuses at +1. The skeleton deals 1d8+2 damage on a successful hit and lasts for 1 hour / level.
+
+### 10th-Level Necromancer Spells
+
+- **Summon Shadow:**
+
+### 12th-Level Necromancer Spells
+
+- **Summon Greater Zombie:**
+
+### 14th-Level Necromancer Spells
+
+- **Summon Wraith:**
+
+### 16th-Level Necromancer Spells
+
+- **Summon Death Knight:**
+
+### 18th-Level Necromancer Spells
+
+- **Create Phylactery:** Bind your soul to a fist-size object, turning your body into an Undead under your control. This process takes a full week. If you die, your body is reconstructed by the phylactery over the course of a week.
+
+
 ## Psion
 
 Psions are strange quirks of nature whose minds are warped from birth. They posess a natural connection with the Ethereal Plane, which allows them to directly project power into their surroundings. This often results in Psions perceiving the world in strange ways, and developing anti-social and amoral tendencies due to their outcast status.
