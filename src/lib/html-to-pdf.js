@@ -25,6 +25,7 @@ function htmlConverter(options, file) {
     return new Promise((resolve, reject) => {
       spawn('wkhtmltopdf', wkhtmlOpts, {
         cwd: options.cwd,
+        stdio: 'inherit',
       }).on('exit', (code) => {
         if (code !== 0) {
           reject(new Error(`WKHtmlToPdf exited with code ${code}.`));
