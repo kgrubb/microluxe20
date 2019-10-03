@@ -33,32 +33,38 @@ function getDataFile(directive) {
   return [doc, matches];
 }
 
-function assembleTable(doc) {
-  // Convert it into markdown, optionally combining multiple columns.
-  let header = '';
+function generateTableBody(data, rows, columns) {
+  const extra = data.length % columns;
+  const totalRows = extra ? rows + 1 : rows;
+
   let body = '';
 
+  // Stack table entries side-by-side.
+  for (let row = 0; row < totalRows; row += 1) {
+    let rowText = '| ';
+    for (let column = 0; column < columns; column += 1) {
+      const idx = row + Math.min(column, extra) + (column * rows);
+      if (idx >= data.length) break;
+      rowText += (column ? ' | ' : '') + data[idx];
+    }
+    body += `${rowText} |\n`;
+  }
+
+  return body;
+}
+
+function assembleTable(doc) {
+  // Convert it into markdown, optionally combining multiple columns.
+
   const columns = doc.columns || 1;
+  const rows = Math.floor(doc.data.length / columns);
+
+  let header = '';
   doc.header.forEach((h) => {
     header += `| ${`${h} | `.repeat(columns - 1)}${h} |\n`;
   });
 
-  const size = Math.floor(doc.data.length / columns);
-  const extra = doc.data.length % columns;
-
-  // Stack table entries side-by-side.
-  for (let i = 0; i < (extra ? size + 1 : size); i += 1) {
-    let d = '| ';
-    for (let c = 0; c < columns && (i < size || c < extra); c += 1) {
-      const offset = c ? Math.min(c, extra) : 0;
-      const idx = i + offset + (c * size);
-      if (idx >= doc.data.length) break;
-      d += (c ? ' | ' : '') + doc.data[idx];
-    }
-    body += `${d} |\n`;
-  }
-
-  return `\n${header}${body}\n`;
+  return `\n${header}${generateTableBody(doc.data, rows, columns)}\n`;
 }
 
 // Transform markdown document by parsing and including data tables.
