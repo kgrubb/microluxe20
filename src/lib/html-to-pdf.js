@@ -1,7 +1,8 @@
 // This file makes use of closure parameters, requring that we disable no-param-reassign.
 /* eslint-disable no-param-reassign */
 
-const fs = require('fs').promises;
+const pify = require('pify');
+const fs = pify(require('fs'));
 const tmp = require('tmp-promise');
 const { spawn } = require('child_process');
 const through = require('through2');
