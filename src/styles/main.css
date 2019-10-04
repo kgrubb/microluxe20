@@ -87,7 +87,7 @@ ul, ol {
     padding-left: 1.6em;
 }
 
-li > p {
+ul p {
     display: inline;
 }
 
@@ -109,6 +109,7 @@ blockquote, pre {
 blockquote {
     margin-left: 0;
     margin-right: 0;
+    page-break-inside: avoid;
 }
 
 /* Collapse margin where padding makes it redundant. */
