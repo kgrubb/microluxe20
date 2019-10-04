@@ -64,55 +64,49 @@ These factors, when carefully chosen, can significantly help in designing a char
 
 Classes define your character's way of life. Your character's class helps shape his/her combat style and methods of overcoming various obstacles. Your class provides a pathway, granting special powers and features for your character.
 
-**Fighters** wear and use any kind of armor, shield, and weapon. They gain a +3 bonus to Physical and add +1 to all attack and damage rolls. This increases by +1 at 5th level and every five levels onward. They also gain additional HP equal to their STR bonus every time they level up. Fighters gain the _Cleave_ ability at level 5. If the Fighter's melee attack drops/slays a foe, the fighter gets one additional attack against another opponent within range. This ability can compound, meaning if one swing kills the second foe, the Fighter can continue to attack until he/she either misses or doesn't kill the foe with the attack.
+A simple overview of the available classes is listed here. For full details, see the chapter on _Classes, Spells and Powers_.
 
-**Rogues** can use light armor, can use bucklers, and can use simple weapons and complex light weapons. They have a +3 bonus to Guile. Rogues can _Sneak Attack_. If they successfully sneak (usually Guile+DEX, but depends on situation) up on a foe they can add their Guile skill rank to the damage of their first attack. Rogues gain the _Evade_ ability at level 5. Any save that a rogue succeeds cannot deal damage to the rogue. For example, some spells deal half-damage even if the target saves successfully. With Evade, the rogue would not take any damage as long as he/she saved successfully.
+**Fighters** wear and use any kind of armor, shield, and weapon. They gain a +3 bonus to Physical and add +1 to all attack and damage rolls, increasing by +1 at every 5th level. They also gain additional HP (based on STR) when they level up.
+
+**Rogues** can use light armor, can use bucklers, and can use simple weapons and complex light weapons. They have a +3 bonus to Guile. Rogues can _Sneak Attack_ with a successful stealth roll (usually Guile+DEX), and gain the _Evade_ ability at level 5.
 
 **Mages** wear no armor, can not use shields, and can use simple weapons. They can cast arcane spells (Mage), and gain a +3 bonus to Knowledge.
 
-**Clerics** can wear light or medium armor, can not use shields, and can use simple weapons. They cast divine spells (Cleric) and gain a +3 bonus to Communication. A Cleric can _Turn Undead_ with a successful Magic Attack. The DC for the action is the current HP of the Undead. If the DC is exceeded by 10 it is destroyed. This can be used (2 + Level + MIND Bonus) times per day.
+**Clerics** can wear light or medium armor, can not use shields, and can use simple weapons. They cast divine spells (Cleric) and gain a +3 bonus to Communication. A Cleric can _Turn Undead_ with a successful Magic Attack.
 
-**Paladins** wear and use any kind of armor, shield, and weapon. They gain +1 to Physical and a +2 bonus to Communication. They are immune to diseases and apply a +1 bonus to all saving throws (this increases by +1 at 5th level and every 5 levels onward). Paladins can _Detect Evil_ within 60 ft. at will and can heal up to 2 HP per level up to three times per day by _Laying on Hands_. _Laying on Hands_ ignores Arcane and Divine Influence on casters, healing the full amount.
+**Paladins** wear and use any kind of armor, shield, and weapon. They gain +1 to Physical and a +2 bonus to Communication. Paladins can _Detect Evil_ and heal others by _Laying on Hands_, and gain _Divine Favor_ at level 5.
 
-**Rangers** wear light or medium armor, can use shields, and can use simple weapons, complex ranged weapons, and complex one-handed weapons. They gain +1 to hit and +1 damage with ranged weapons and only incur a -1 to hit penalty when fighting with 2 weapons. They have a +1 bonus to Guile and a +2 bonus to Physical. Rangers gain the _Trapper_ ability at level 5. When dealing with trap-related dice rolls (such as dodging a trap or searching for traps), a ranger gains a +2 bonus.
+**Rangers** wear light or medium armor, can use shields, and can use simple weapons, complex ranged weapons, and complex one-handed weapons. They gain a +1 bonus to Guile and a +2 bonus to Physical. They have +1 to ranged weapon rolls and incur less of a penalty for fighting with 2 weapons. Rangers gain the _Trapper_ ability at level 5.
 
 **Illusionists** wear no armor, can not use shields, and can use simple weapons. They can cast arcane spells (Illusionist) and gain a +2 bonus to Communication and a +1 bonus to Guile.
 
-**Druids** wear any non-metal armor, can use non-metal shields, and can use simple weapons. They cast divine spells (Druid) and gain +2 to Knowledge and +1 to Physical. Druids are immune to the spell-like effects of woodland fey. At 3rd level a Druid can _Pass Without Trace_ (be untraceable) at will. At 7th level a Druid can assume the form of any small or medium sized animal up to 3 times per day. A Druid heals 2 HP per level when changing back into his/her human form.
+**Druids** wear any non-metal armor, can use non-metal shields, and can use simple weapons. They cast divine spells (Druid) and gain +2 to Knowledge and +1 to Physical. Druids are immune to the effects of woodland fey, can _Pass Without Trace_ at 3rd level, and take the form of a small or medium sized animal at 7th level.
 
-**Bards** wear light armor, can use bucklers, and can use simple weapons and complex light weapons. They gain +2 to Communication and +1 to Guile. A Bard has the _Performance_ ability, allowing him/her to counter sound-based effects within a 30 ft. radius. A Bard can use his/her song to _Charm Person_ or _Remove Fear_ (vs DC) up to 3 times (total) per day. Beginning at 6th level, a Bard casts spells as either a Druid or Illusionist (player's choice) of 5 levels lower.
+**Bards** wear light armor, can use bucklers, and can use simple weapons and complex light weapons. They gain +2 to Communication and +1 to Guile. A Bard can counter sound-based effects with _Performance_, and can _Charm Person_ or _Remove Fear_ with a successful skill roll. A Bard can also cast spells as either a Druid or Illusionist of 5 levels lower.
 
 **Psions** can use light armor, can not use shields, and can use simple weapons. They can manifest Psion powers and gain +2 to Knowledge and +1 to Communication.
 
-After choosing your character's race and class, you will need to configure your stats and skills.
-
-<!-- $page-break -->
+After choosing your character's race and class, you will need to set your character's starting Stats and Skills.
 
 ## Stats
 
 There are 3 core stats that define a character:
 
-**Strength** (STR): Strength represents the physical prowess of the character. It defines their resilience and toughness as well as how hard they can hit.
+**Strength** (STR): Strength represents the physical prowess of the character. It defines their resilience and toughness as well as how hard they can hit, how much they can carry, and how healthy they are.
 
-**Dexterity** (DEX): Dexterity represents the character's coordination, precision, agility, reflexes, balance and movement.
+**Dexterity** (DEX): Dexterity represents the character's coordination, precision, agility, reflexes, balance and movement. Dexterity controls how accurate a character is with a ranged or thrown weapon.
 
-**Mind** (MIND): Mind represents the character's analytical thinking, as well as their wisdom, memory, knowledge of lore, and general intelligence.
+**Mind** (MIND): Mind represents the character's analytical thinking, as well as their wisdom, memory, knowledge of esoteric lore, and general intelligence. Mind also represents a character's magical competence.
 
 When creating a character, you get 10 points to freely spend on your core stats, as long as no single stat is higher than 6. For example, a Fighter may choose to have 6 STR, 4 DEX, and 0 MIND.
 
 **Stat Bonus:** For any stat, the Stat Bonus is that stat's value divided by two, rounding down. If the stat is negative, round towards negative infinity.
 
-**Hit Points (HP)**: Hit Points determine how healthy a character is. As they are injured or hurt, their HP depletes. To determine a character's starting HP, use the following formula:
+These three primary stats are used to determine several extremely important secondary stats:
+
+**Hit Points (HP)**: Hit Points determine how healthy a character is. As they are injured or hurt, their HP depletes. A character's starting HP is determined with the following formula:
 
 	10 + STR stat + 1d6(with a minimum of 3).
-
-If a player's character is damaged to the point where their HP reaches zero (or below zero), the character becomes "downed", or unconscious and near death, with 0 HP. Further damage directly reduces their normally highest stat (either STR, DEX, or MIND). If that stat drops below -10, the character dies.
-
-While downed, at the start of your turn, roll a d6. You have 3 chances (1 chance per turn) to roll above a 3. If successful, you are stabilized and return to 1 HP. Otherwise, if you are unsuccessful for 3 turns, the character dies. Healing items or spells stabilize downed characters, and the amount healed is restored to the character's HP.
-
-Sometimes damage in combat is dealt directly to a character's Stats instead of Hit Points. If any stat reaches -10 or below, the character is downed and treated as if they were reduced to 0 HP. Damage while downed is applied to the character's next highest Stat instead of the Stat which caused the character to become downed.
-
-Damaged stats will return to their normal levels after a long rest (4 hours).
 
 **Speed** comes in 3 tiers, and determines how far a character can move in a round. Characters are either Slow (20ft.), Normal (30ft.), or Fast (35ft.). A character's Speed is determined by the game master and can be affected by spells and conditions.
 
@@ -121,6 +115,8 @@ Typically, Fighters or Paladins with Heavy armor are Slow, Rogues and Rangers ar
 **Armor Class (AC):** A character's Armor Class represents their ability to evade or block physical attacks. The higher a character's AC, the more difficult it is to land a damaging blow. A character's Armor Class is determined by this formula:
 
 	10 + DEX bonus + Armor bonus + Racial bonus (if applicable).
+
+**Carrying Capacity:** A character's carrying capacity represents the number and weight of items they are able to easily carry without being overburdened. The capacity is equal to `5 + STR bonus`, and can be increased with a backpack.
 
 ## Skills & Saves
 
@@ -182,39 +178,77 @@ When entering combat, the pace of the game shifts from the free-form nature of e
 
 The order in which characters take their turns in combat is determined by rolling d20 + DEX bonus for **initiative** at the start of each round (ties are settled with a re-roll).
 
-When making an attack, roll a d20, adding the appropriate **attack bonus** for the action. If the resulting total is greater than your opponent's Armor Class (AC), it's a hit. Natural 20 is automatically a critical, dealing additional damage equal to your weapon's maximum damage. Melee attack bonuses are used for martial weapons, Missile attack bonuses are used for ranged combat, and Magic attack bonuses are used for staves and other magical items with special powers.
+### Attacking and Defending
 
-| **Melee Attack Bonus:** | **Missile Attack Bonus:** | **Magic Attack Bonus:** |
+When making an attack, roll a d20, adding the appropriate **attack bonus** for the action. If the resulting total is greater than your opponent's Armor Class (AC), it's a hit. Natural 20 is automatically a critical, dealing additional damage equal to your weapon's maximum damage.
+
+Melee attack bonuses are used for martial weapons, Ranged attack bonuses are used for thrown and ranged weapons, and Magic attack bonuses are used for spells and magical items with special powers.
+
+| **Melee Attack Bonus:** | **Ranged Attack Bonus:** | **Magic Attack Bonus:** |
 | :- | :- | :- |
 | STR bonus + Character Level | DEX bonus + Character Level | MIND bonus + Character Level |
 
-While a character's attack bonus is +6 or more, they can make an additional attack by subtracting -5 for the new attack's bonus. This can be carried out up to three times. For example, if the total bonus is +12, three attacks can be made (at +12/+7/+2, respectively).
-
-Fighters and Rogues may use DEX bonus + Level (Missile attack bonus) as their Melee attack bonus when wielding a light weapon. Fighters, Rogues, Bards, and Rangers may wield 2 light weapons and attack with both in a round, if they take a -2 penalty on all attack rolls that round. Rangers take a -1 penalty instead.
-
-For each attack that hits, roll the damage die code on your weapon and subtract the resulting total from your opponent's HP. When wielding a Complex Melee weapon, add your STR bonus to the damage total.
+For each attack that hits, roll the damage die code of your weapon or spell, adding any bonuses from your class or weapon, and subtract the resulting total from your opponent's HP. An attack that hit always deals at least 1 damage.
 
 > **Example:** Your Human Paladin has hit an enemy Orc with his Greatsword (2d6, Complex). He rolls two six-sided die, getting 4+5 for a total of 9. Since it is a Complex weapon, he adds his strength bonus of +2, for 11 HP damage total. The Orc, having a meager 9 HP left, is killed instantly.
 
+<!-- $page-break -->
+
 When all characters (including Gamemaster's characters) have taken their turn, the round is over. If there are any opponents left alive or not incapacitated, a new round begins. Otherwise, combat is over.
+
+## Special Combat Rules
+
+While the basics of combat apply in all situations, some players may want to do more than just wield a single weapon or make a normal attack every turn. These rules are designed to allow players greater freedom in their playstyle.
+
+**Fighters**, **Rogues**, **Rangers**, and **Bards** may wield 2 light weapons and attack with both in a round, if they take a -2 penalty on all attack rolls that round. Rangers take a -1 penalty instead.
+
+**Fighters** and **Rogues** may use their Ranged Attack bonus (DEX + Level) instead of their Melee Attack bonus (STR + Level) when attacking with a Light melee weapon.
+
+If a character's attack bonus is +6 or more, they can make an additional strike or fire another projectile at the same target (a "sub-attack") by taking a -5 penalty to each attack's bonus. This can be carried out up to three times, so long as the resulting attack bonus is +1 or more.
+
+> **Example:** if your character's total Melee Attack bonus is +12, you can choose to strike three times (at +2/+2/+2), twice (at +7/+7), or once at +12. However, you can't split the strikes up between different targets.
+
+When a character enters or exits the melee range of a hostile character, the hostile character may be able to attack them, at the GM's discretion. This is called an Attack of Opportunity, and is carried out like a normal attack. Characters unable to take a normal combat action may not make an Attack of Opportunity.
+
+Attempting to attack a specific part of a hostile character or target is known as a Called Shot, and is made at a -2 or greater penalty to Attack bonus. Successfully hitting a Called Shot may have special effects such as wounding or incapacitating the target, or may simply act like a normal attack, as determined by the GM.
+
+Attempting to knock out, restrain, or trip a hostile character with an attack is considered a Called Shot, with appropriate penalties to Attack bonus as determined by the GM.
+
+Characters wielding a Complex melee weapon in one hand add their STR bonus to the damage total. Characters wielding a Two-Handed melee weapon add 1½ times their STR bonus to the damage total.
+
+### Unconsciousness and Death
+
+If a player's character is damaged to the point where their HP reaches zero (or below zero), the character becomes "downed", or unconscious and near death, with 0 HP. Further damage directly reduces their normally highest stat (either STR, DEX, or MIND). If that stat drops below -10, the character dies.
+
+Unless the Game Master decides otherwise, monsters and non-player characters die when brought to zero HP.
+
+Each turn while downed, roll a d6 at the start of your turn. If you roll above a 3, you are stabilized and return to 1 HP. Otherwise, if you are unsuccessful for 3 turns, your character dies. Healing items or spells will stabilize downed characters, and they restore a character's HP as normal.
+
+Some attacks drain a specific Stat instead of HP. If a character has one of their stats drained to -10 or below, the character is downed and treated as if they were reduced to 0 HP. Damage while downed is applied to the character's next highest Stat instead of the Stat which caused the character to become downed.
+
+All stat damage taken while downed or in combat is restored after 24 hours have elapsed and the character takes a long rest.
+
+<!-- $page-break -->
 
 ## Spells
 
 Spellcasters may cast any of their class spells as long as the spell level is equal to or below their class level. When casting a spell, characters make a Magic Attack, rolling 1d20 + Magic Attack Bonus. If the resulting roll is greater than the Spell Difficulty Class, the spell is successfully cast.
 
-**Spell Difficulty Class (DC):** 10 (or spell-specific difficulty) + Target's MIND stat
+**Spell Difficulty Class (DC):** 10 (or spell-specific difficulty) + Spell Level + Target's MIND Bonus
 
-When a spell is successfully cast, the spell immediately takes effect, unless the spell states that the target may make a specific save against the spell's effects. For example, a spell that forms spikes that protrude from the ground may allow the target to make a DEX save to try and escape the spell.
+When casting a spell against an inanimate object, the target's MIND bonus is not considered part of the DC.
 
-Casting a spell of any kind, regardless of the outcome, costs Hit Points. The cost is equal to the level of the spell being cast. For example, a 2nd level spell will cost the caster 2 HP.
+If the spell is successfully cast it immediately takes effect, unless the spell states that the target may make a specific save against the spell's effects. For example, a spell that forms spikes that protrude from the ground may allow the target to make a DEX save to try and escape the spell.
 
-A spellcaster may cast spells without expending HP by casting the spell over a duration of 10 minutes for each HP that would be otherwise be expended. Spells cannot be partially cast over time for a reduced HP cost, and casting a spell over time does not escape arcane/divine influence.
+Casting a spell of any kind costs Hit Points, regardless of the outcome. The cost is equal to the level of the spell being cast. For example, a 2nd level spell will cost the caster 2 HP.
+
+A spellcaster may cast spells without expending HP by casting the spell over a duration of 10 minutes for each HP that would be otherwise be expended. Casting a spell over time cannot be done in combat, and cannot be used to partially lower the HP cost of a spell. Casting a spell over time does not escape arcane/divine influence.
 
 Once a spellcaster has cast a spell in an encounter, they enter a state called "arcane (or divine) influence". While in this state, their HP *cannot* be healed normally until they have a short rest. Healing spells cast on an injured caster under arcane/divine influence only heal ¼ of the given amount. Spellcasters automatically exit their influenced state after 1 hour of rest.
 
 There is no need to memorize spells in advance. Just because a character can cast any spell, doesn't mean that they should. Choose spells that suit the character.
 
-Starting at 1st level, select one "signature" spell per spell level that the character prefers to use over any other. These spells are easier to cast due to familiarity, costing 2 HP less to use.
+Starting at 1st level, select one "signature" spell per spell level that the character prefers to use over any other. These spells are easier to cast due to familiarity, costing 2 HP less to use. Spells that do damage to a target (e.g. _Magic Missile_, _Produce Flame_) always cost at least 1 HP to cast, even if they are a signature spell.
 
 ### Casting Metamagic
 
@@ -224,15 +258,28 @@ A Magic Attack roll is not normally required to cast metamagic. However, if the 
 
 If a caster is attempting to cast metamagic on their own spell, the metamagic and the spell must be cast as separate actions, one after the other. This restriction is ignored if the caster is using a rod enchanted with metamagic, or if another caster is casting the metamagic.
 
-Here are the three most common metamagic spells:
+Here are some of the most common metamagic spells:
 
-- **Extending** makes a spell last twice as long as it normally would. Extending a spell costs 2 HP.
+**Extending** makes a spell last twice as long as it normally would. Extending a spell costs 2 HP.
 
-- **Empowering** makes a spell do 50% more damage than normal. Empowering a spell costs 4 HP.
+**Empowering** makes a spell do 50% more damage than normal. Empowering a spell costs 3 HP.
 
-- **Widening** makes a spell's area of effect twice as big as normal. Widening a spell costs 6 HP.
+**Widening** makes a spell's area of effect twice as big as normal. Widening a spell costs 4 HP.
 
-<!-- $page-break -->
+**Compelling** adds +5 to the DC for others to alter the spell. Compelling a spell costs 5 HP.
+
+**Dampening** reduces the DC for others to alter the the spell by -5. Dampening a spell costs 5 HP.
+
+**Limiting** makes a spell last half as long as it normally would. Limiting a spell costs 2 HP.
+
+**Depowering** makes a spell do 50% less damage than normal. Depowering a spell costs 3 HP.
+
+**Narrowing** makes a spell's area of effect half as large as normal. Narrowing a spell costs 4 HP.
+
+**Attuning** changes the damage type of a spell to a specific element. Attuning a spell costs 3 HP if the specified element is easily available to the caster; otherwise it costs 5 HP. Spells which already deal elemental damage cannot be Attuned.
+
+If two opposing metamagics are cast on the same spell, they cancel each other out.
+
 
 ## Magic Items
 
@@ -246,11 +293,11 @@ Magical items can be broadly divided into two categories: Active and Passive. Ac
 
 **Rods:** Usually employed for easier metamagic, rods may contain a single spell or magical effect. This spell can be cast by anyone for the appropriate HP cost, but non-spellcasting characters do so at +2 or more to the difficulty. Rods with a metamagic effect may be used in tandem with staves when casting a spell. Spellcasters can create these at 5th level.
 
-**Wands:** Sometimes described as "magic-in-a-bottle", a wand contains a combination of a single spell and a set amount of charges. While there are charges left, any character may use the wand to cast the contained spell at the expense of a charge. Wands can be recharged, but usually require a significant HP cost for each charge. Spellcasters can create these at 5th level.
+**Wands:** Sometimes described as "magic-in-a-stick", a wand contains a single spell and a set number of charges. While there are charges left, any character may use the wand to cast the contained spell at the expense of a charge. Wands can be recharged, but usually require a significant HP cost for each charge. Spellcasters can create these at 5th level.
 
 **Potions:** A single-use magical item, potions are a bottled magical liquid. When consumed, a potion confers a magical effect on the character that drank it. Spellcasters can create these at 3rd level.
 
-**Scrolls:** Scrolls are small sheets of parchment that allow any character to cast a single spell simply by saying the text out loud. Reading the Scroll does not require a character to understand the language it is written in, and completely destroys the scroll. Spellcasters may use Read Magic to decipher a scroll without casting (and destroying) it. Spellcasters can create these at 1st level.
+**Scrolls:** Scrolls are small sheets of parchment that allow any character to cast a single spell simply by saying the text out loud. Reading a scroll does not require a character to understand the language it is written in, and completely destroys it. Spellcasters may use Read Magic to decipher a scroll without casting (and destroying) it. Spellcasters can create these at 1st level.
 
 ### Common Passive Items:
 
@@ -290,17 +337,51 @@ When the infusion process is finished, the character rolls MIND+Knowledge, and t
 
 After players have been in combat, they may need to rest to regain their stamina. There are 2 forms of resting:
 
-**Short Rest:** Resting for 1-4 hours constitutes a short rest. Characters heal up to ¼ of their Max HP (rounded up). Spellcasters are no longer under arcane/divine influence.
+**Short Rest:** Resting for at least an hour constitutes a short rest. Spellcasters are no longer under arcane/divine influence once they have taken a short rest.
 
-**Long Rest:** Resting for at least 4 hours constitutes a long rest. Characters heal all of their HP and short-term side effects. Spellcasters also lose their arcane/divine influence.
+**Long Rest:** Resting for at least 4 hours constitutes a long rest. A long rest cures most short-term status effects, and is otherwise functionally identical to a short rest.
 
-Resting for less than 4 hours recovers at most ¼ of a character's HP, regardless of the duration of the rest. Downed characters must be stabilized before they can rest.
+While resting, characters heal HP equal to `STR bonus + Physical` per hour of rest. Bandages and other healing items usually require that a character take at least a short rest to heal HP. Healing items that require a rest are not affected by arcane/divine influence.
 
-After resting, characters may not rest again until they have lost ¼ of their total HP, or one hour has passed.
+Potions and spells of Cure Wounds instantly heal a character without requiring a rest, but have significantly reduced effect on a character under arcane/divine influence.
+
+<!-- $page-break -->
 
 ## Heroism
 
 **Heroism** is intended to relieve some of the power incompatibilities with some d20 adventure types. If you find that the party is consistently too weak, try adding Heroism. **Heroism** is a bonus equal to the character's level that may be applied to an Attack Bonus, Damage roll, Saving Throw, or Skill Check. Heroism may be used up to three times per day.
+
+## Light
+
+The lighting conditions of an area have a subtle but important effect on a character. The precise details are up to the Gamemaster, but for convenience this handbook divides lighting conditions into three broad categories:
+
+**Bright:** Lit by the sun, a bright lamp, or a spell of Light, you can see clearly and discern fine detail. All actions are taken as normal.
+
+**Dim:** A flickering candle or a dim lantern casts light here; characters can't see beyond medium range and have a difficult time making out details. In Dim lighting, all attack rolls take a -1 or greater penalty, and skill checks involving perception or detailed work take a -2 to -4 penalty.
+
+**Dark:** New moon or the inside of a cave; most characters cannot see anything beyond short range, and determining detail is almost impossible. All attack rolls take a -4 or greater penalty, and affected skill checks fail at the Gamemaster's discretion.
+
+## Range
+
+Instead of a tabletop grid system, Microluxe20 uses narrative ranges determined by the Game Master. Five ranges are used throughout the handbook: **Self**, **Touch**, **Short**, **Medium**, and **Long**. Self refers to only your character and any items or clothing you are holding or wearing. The other ranges correspond to a maximum distance according to the table below:
+
+| Range:   | Touch: | Short: | Medium: | Long:   |
+| :-----   | :----- | :----- | :------ | :----   |
+| Distance | < 5ft. | 30 ft. | 120 ft. | 480 ft. |
+
+## Inventory Size and Weight
+
+**Bulk** determines how many items a character can carry on their person or in their inventory. Items are classified according to their size and weight into one of four size classes:
+
+- **Tiny** items that can be stacked together like arrows or coins count for 1 Bulk for every 20 items.
+- **Small** items can be comfortably held in one hand, like daggers, loaves of bread, or potions, and  count for 1 Bulk.
+- **Medium** items are the size of a normal arm, like long swords, bows, or bedrolls, and count for 3 Bulk.
+- **Large** items are the size of a torso, like a tower shield, empty barrels, or a full set of armor, and count for 5 Bulk.
+
+Anything larger is left to the Game Master's discretion as to whether a character is capable of even lifting it.
+
+A character's Carry Capacity determines how much Bulk they can carry without being overburdened. Backpacks, satchels, and other containers can increase the character's capacity. An overburdened character takes -1 to all Dex checks and attack rolls for each point of Bulk they are overburdened by.
+
 
 # Appendix
 

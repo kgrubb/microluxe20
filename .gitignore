@@ -3,3 +3,6 @@ html/*
 release/*
 .DS_Store
 node_modules/*
+.tmp-*
+*.code-workspace
+/.vscode
