@@ -40,13 +40,11 @@ If you want to contribute to the game's handbooks, or want to craft your own cus
 
 # Authors & Contributors
 
-Keli Grubb (<keligrubb324@gmail.com>)
-
-Doug Rich
-
-Connor Bashinski
-
-Webster Sheets
+- Keli Grubb, Author (<keligrubb324@gmail.com>)
+- Webster Sheets, Maintainer (webster@web-eworks.com)
+- Doug Rich
+- Connor Bashinski
+- João Gabriel Moritz Lima
 
 # Licensing
 
